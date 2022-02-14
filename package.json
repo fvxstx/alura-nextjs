@@ -2,7 +2,7 @@
   "name": "alura-cases",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/omariosouto/01-nextjs-course.git",
+  "repository": "https://github.com/fvxstx/alura-nextjs",
   "author": "fvxstx",
   "license": "MIT",
   "dependencies": {
